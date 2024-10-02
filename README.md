@@ -24,8 +24,8 @@ Nah, more like a time killer.
 As of Tuesday, October 1st 2024 concerns, the planes are:
 - Adding secondary functionability in Lua
 - Add image/video/gif support
- - Use Face(R) bruh(TM) compression method
+  - Use Face(R) bruh(TM) compression method
 - Move to another database technology if bigger adoptions needs so.
 - Move the web frontend UI to React/Tailwind instead of Vanilla.
- - I don't like neither, I prefer the vanilla way, but if I want to
-   eat from the IT industry, I might learn all that crap.
+  - I don't like neither, I prefer the vanilla way, but if I want to
+    eat from the IT industry, I might learn all that crap.
