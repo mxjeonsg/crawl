@@ -12,13 +12,13 @@ well.
 Nah, more like a time killer.
 
 ## What technologies you used here?
-+ For the backend:
- - C
- - JavaScript?
- - SQLite3
-+ For the frontend:
- - JavaScript
- - Lua
+- For the backend:
+  * C
+  * JavaScript?
+  * SQLite3
+- For the frontend:
+  * JavaScript
+  * Lua
 
 ## What are the plans for this software towards the future?
 As of Tuesday, October 1st 2024 concerns, the planes are:
